@@ -4,9 +4,9 @@ Used Flask for the web framework (library used)
 Python version: 3.7
 
 Python libraries used:
-*flask
-*random
-*datetime
+1. flask
+2. random
+3. datetime
 
 Instructions to run:
 1. Execute the python files
