@@ -1,11 +1,11 @@
 Python version: 3.7
 
 Python libraries used:
-*datetime
-*flask
-*functools
-*random
-*redis
+1. datetime
+2. flask
+3. functools
+4. random
+5. redis
 
 Instructions:
 1. Execute the python file
@@ -16,4 +16,4 @@ Instructions for sending requests using Postman
 Credentials - Username: username, Password: password
 2. Add the payload data under the "Body" tab as JSON.
 Data - {"from" : 123456, "to" : 1234567890, "text" : "Hello"}
-The values for keys "from" and "to" are integer type and for "text" it is string type.
+\nThe values for keys "from" and "to" are integer type and for "text" it is string type.
